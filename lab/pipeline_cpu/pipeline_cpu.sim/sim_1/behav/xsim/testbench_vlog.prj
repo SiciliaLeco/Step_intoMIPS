@@ -1,0 +1,30 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../pipeline_cpu.srcs/sources_1/ip/data_mem/sim/data_mem.v" \
+"../../../../pipeline_cpu.srcs/sources_1/ip/inst_mem/sim/inst_mem.v" \
+"../../../adder.v" \
+"../../../alu.v" \
+"../../../aludecode.v" \
+"../../../controller.v" \
+"../../../datapath.v" \
+"../../../eqcmp.v" \
+"../../../flopenr.v" \
+"../../../flopenrc.v" \
+"../../../flopr.v" \
+"../../../floprc.v" \
+"../../../hazard.v" \
+"../../../maindecode.v" \
+"../../../mips.v" \
+"../../../mux_2.v" \
+"../../../mux_3.v" \
+"../../../regfile.v" \
+"../../../signext.v" \
+"../../../sl2.v" \
+"../../../top.v" \
+"../../../../pipeline_cpu.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,24 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab_3.srcs/sources_1/ip/data_ram/sim/data_ram.v" \
+"../../../../lab_3.srcs/sources_1/ip/inst_ram/sim/inst_ram.v" \
+"../../../../lab_3.srcs/sources_1/new/adder.v" \
+"../../../../lab_3.srcs/sources_1/new/alu.v" \
+"../../../../lab_3.srcs/sources_1/new/alu_decoder.v" \
+"../../../../lab_3.srcs/sources_1/new/controller.v" \
+"../../../../lab_3.srcs/sources_1/new/datapath.v" \
+"../../../../lab_3.srcs/sources_1/new/main_decoder.v" \
+"../../../../lab_3.srcs/sources_1/new/mips.v" \
+"../../../../lab_3.srcs/sources_1/new/mux2.v" \
+"../../../../lab_3.srcs/sources_1/new/pc.v" \
+"../../../../lab_3.srcs/sources_1/new/regfiles.v" \
+"../../../../lab_3.srcs/sources_1/new/sign_extend.v" \
+"../../../../lab_3.srcs/sources_1/new/sl2.v" \
+"../../../../lab_3.srcs/sources_1/new/top.v" \
+"../../../../lab_3.srcs/sim_1/new/tb_lab3.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

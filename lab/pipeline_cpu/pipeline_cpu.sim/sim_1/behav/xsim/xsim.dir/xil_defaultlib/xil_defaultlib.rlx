@@ -1,0 +1,27 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/adder.v,1592805634,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/alu.v,,adder,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/alu.v,1592805634,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/aludecode.v,,alu,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/aludecode.v,1592916030,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/controller.v,,aludecode,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/controller.v,1592918075,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/datapath.v,,controller,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/datapath.v,1592914317,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/eqcmp.v,,datapath,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/eqcmp.v,1592805634,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/flopenr.v,,eqcmp,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/flopenr.v,1592901298,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/flopenrc.v,,flopenr,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/flopenrc.v,1592901335,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/flopr.v,,flopenrc,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/flopr.v,1592805634,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/floprc.v,,flopr,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/floprc.v,1592805634,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/hazard.v,,floprc,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/hazard.v,1592805634,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/maindecode.v,,hazard,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/maindecode.v,1592805634,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/mips.v,,maindecode,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/mips.v,1592805634,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/mux_2.v,,mips,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/mux_2.v,1592805634,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/mux_3.v,,mux2,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/mux_3.v,1592805634,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/regfile.v,,mux3,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/regfile.v,1592805634,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/signext.v,,regfile,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/signext.v,1592805634,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/sl2.v,,signext,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/sl2.v,1592805634,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/top.v,,sl2,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/top.v,1592900247,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.srcs/sim_1/new/testbench.v,,top,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.srcs/sim_1/new/testbench.v,1592897417,verilog,,,,testbench,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.srcs/sources_1/ip/data_mem/sim/data_mem.v,1592897082,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.srcs/sources_1/ip/inst_mem/sim/inst_mem.v,,data_mem,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.srcs/sources_1/ip/inst_mem/sim/inst_mem.v,1592899365,verilog,,C:/Users/liqilin/.Xilinx/school/pipeline_cpu/pipeline_cpu.sim/adder.v,,inst_mem,,,,,,,,

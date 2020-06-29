@@ -1,0 +1,6 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.sim/sim_1/synth/func/xsim/tb_lab3_func_synth.v,1591288996,verilog,,C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sim_1/new/tb_lab3.v,,adder;adder_0;alu;data_ram;data_ram_blk_mem_gen_generic_cstr;data_ram_blk_mem_gen_prim_width;data_ram_blk_mem_gen_prim_wrapper_init;data_ram_blk_mem_gen_top;data_ram_blk_mem_gen_v8_4_3;data_ram_blk_mem_gen_v8_4_3_synth;datapath;glbl;inst_ram;inst_ram__blk_mem_gen_generic_cstr;inst_ram__blk_mem_gen_prim_width;inst_ram__blk_mem_gen_prim_wrapper_init;inst_ram__blk_mem_gen_top;inst_ram__blk_mem_gen_v8_4_3;inst_ram__blk_mem_gen_v8_4_3_synth;mips;pc;regfiles;top,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sim_1/new/tb_lab3.v,1591246807,verilog,,,,tb_lab3,,,,,,,,

@@ -1,0 +1,54 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 18f97cc0e4ac4ed1a1a643aac13345e2 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L secureip --snapshot tb_lab3_func_synth xil_defaultlib.tb_lab3 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module unisims_ver.BUFG
+Compiling module unisims_ver.IBUF
+Compiling module unisims_ver.OBUF
+Compiling module unisims_ver.GND
+Compiling module unisims_ver.RB36_INTERNAL_VLOG(RDADDR_COLLIS...
+Compiling module unisims_ver.RAMB36E1(IS_CLKARDCLK_INVERTED=1...
+Compiling module xil_defaultlib.data_ram_blk_mem_gen_prim_wrappe...
+Compiling module xil_defaultlib.data_ram_blk_mem_gen_prim_width
+Compiling module xil_defaultlib.data_ram_blk_mem_gen_generic_cst...
+Compiling module xil_defaultlib.data_ram_blk_mem_gen_top
+Compiling module xil_defaultlib.data_ram_blk_mem_gen_v8_4_3_synt...
+Compiling module xil_defaultlib.data_ram_blk_mem_gen_v8_4_3
+Compiling module xil_defaultlib.data_ram
+Compiling module unisims_ver.RB18_INTERNAL_VLOG(RDADDR_COLLIS...
+Compiling module unisims_ver.RAMB18E1(INIT_00=256'b0110010000...
+Compiling module xil_defaultlib.inst_ram__blk_mem_gen_prim_wrapp...
+Compiling module xil_defaultlib.inst_ram__blk_mem_gen_prim_width
+Compiling module xil_defaultlib.inst_ram__blk_mem_gen_generic_cs...
+Compiling module xil_defaultlib.inst_ram__blk_mem_gen_top
+Compiling module xil_defaultlib.inst_ram__blk_mem_gen_v8_4_3_syn...
+Compiling module xil_defaultlib.inst_ram__blk_mem_gen_v8_4_3
+Compiling module xil_defaultlib.inst_ram
+Compiling module unisims_ver.LUT6
+Compiling module unisims_ver.x_lut2_mux4
+Compiling module unisims_ver.LUT2
+Compiling module unisims_ver.x_lut3_mux8
+Compiling module unisims_ver.LUT3
+Compiling module unisims_ver.CARRY4
+Compiling module unisims_ver.LUT5
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.adder
+Compiling module xil_defaultlib.adder_0
+Compiling module unisims_ver.FDCE_default
+Compiling module unisims_ver.x_lut1_mux2
+Compiling module unisims_ver.LUT1
+Compiling module xil_defaultlib.pc
+Compiling module unisims_ver.LUT4
+Compiling module unisims_ver.RAM32M
+Compiling module xil_defaultlib.regfiles
+Compiling module xil_defaultlib.datapath
+Compiling module xil_defaultlib.mips
+Compiling module xil_defaultlib.top
+Compiling module xil_defaultlib.tb_lab3
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_lab3_func_synth

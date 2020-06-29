@@ -1,0 +1,21 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sim_1/new/tb_lab3.v,1591314603,verilog,,,,testbench,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/ip/data_ram/sim/data_ram.v,1591173692,verilog,,C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/ip/inst_ram/sim/inst_ram.v,,data_ram,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/ip/inst_ram/sim/inst_ram.v,1591199753,verilog,,C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/adder.v,,inst_ram,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/adder.v,1591289565,verilog,,C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/alu.v,,adder,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/alu.v,1591195572,verilog,,C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/alu_decoder.v,,alu,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/alu_decoder.v,1591171832,verilog,,C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/controller.v,,alu_decoder,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/controller.v,1591172055,verilog,,C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/datapath.v,,controller,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/datapath.v,1591316777,verilog,,C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/main_decoder.v,,datapath,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/main_decoder.v,1591171773,verilog,,C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/mips.v,,main_decoder,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/mips.v,1590073862,verilog,,C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/mux2.v,,mips,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/mux2.v,1590758135,verilog,,C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/pc.v,,mux2,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/pc.v,1591289377,verilog,,C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/regfiles.v,,pc,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/regfiles.v,1591174708,verilog,,C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/sign_extend.v,,regfiles,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/sign_extend.v,1590073441,verilog,,C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/sl2.v,,sign_extend,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/sl2.v,1590758247,verilog,,C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/top.v,,sl2,,,,,,,,
+C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sources_1/new/top.v,1591314622,verilog,,C:/Users/liqilin/.Xilinx/school/lab_3/lab_3.srcs/sim_1/new/tb_lab3.v,,top,,,,,,,,
