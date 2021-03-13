@@ -1,7 +1,7 @@
-# 计算机组成原理
-### 1. 笔记
+# Computer Composistion Principle
+### 1. Note
 
-### 2. 实验内容：
+### 2. Lab
 #### lab 1
 1. ALU
 2. Adder with stall option and refresh option
@@ -13,4 +13,4 @@ main decoder for a CPU
 a simple CPU(one cycle)
 
 #### lab 4
-a pipelined CPU 
+a pipelined CPU
